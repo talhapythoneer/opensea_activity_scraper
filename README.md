@@ -17,7 +17,7 @@ It's a Python(selenium) based scraper to get trade activites for a given collect
 - Data file will be generated in the same folder at the end
 
 
-I have done a few other projects for opensea where I scrapped different attributes of target NFT collecitons. If you need any, you may contact me.
+I have done a few other projects for opensea where I scrapped different attributes of target NFT collections. If you need any, you may contact me.
 
 
 Thanks & Regards
