@@ -21,4 +21,4 @@ I have done a few other projects for opensea where I scrapped different attribut
 
 
 Thanks & Regards
-TalhaPythoneer
+@TalhaPythoneer
