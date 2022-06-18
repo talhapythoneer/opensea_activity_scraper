@@ -20,5 +20,5 @@ It's a Python(selenium) based scraper to get trade activites for a given collect
 I have done a few other projects for opensea where I scrapped different attributes of target NFT collections. If you need any, you may contact me.
 
 
-Thanks & Regards
-@TalhaPythoneer
+Thanks & Regards<br />
+[TalhaPythoneer](https://www.talhapythoneer.com/)
